@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "pwa-app"
+  "defaultProject": "pwa-app",
+  "cli": {
+    "analytics": "a3e4dd07-886b-4692-89e9-cad815bd5934"
+  }
 }
